@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 254"
+  short_description: "东方几何档：上半保留原照，下半把主体拆成半透明几何切片和极端空场"
+  default_prompt: "Use $xxd-panel-254 to transform my photograph following the complete canonical source brief."
